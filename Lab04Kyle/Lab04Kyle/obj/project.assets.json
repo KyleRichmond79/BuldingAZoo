@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kyler\\source\\repos\\BuldingAZoo\\Lab04Kyle\\Lab04Kyle\\Lab04Kyle.csproj",
+      "projectUniqueName": "C:\\Users\\Kyler\\Source\\Repos\\BuldingAZoo\\Lab04Kyle\\Lab04Kyle\\Lab04Kyle.csproj",
       "projectName": "Lab04Kyle",
-      "projectPath": "C:\\Users\\Kyler\\source\\repos\\BuldingAZoo\\Lab04Kyle\\Lab04Kyle\\Lab04Kyle.csproj",
+      "projectPath": "C:\\Users\\Kyler\\Source\\Repos\\BuldingAZoo\\Lab04Kyle\\Lab04Kyle\\Lab04Kyle.csproj",
       "packagesPath": "C:\\Users\\Kyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kyler\\source\\repos\\BuldingAZoo\\Lab04Kyle\\Lab04Kyle\\obj\\",
+      "outputPath": "C:\\Users\\Kyler\\Source\\Repos\\BuldingAZoo\\Lab04Kyle\\Lab04Kyle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
